@@ -5,3 +5,7 @@ desktop.ini
 .vscode/
 .idea/
 *.swp
+
+# local SSH key material (never commit)
+.ssh/
+.local/
